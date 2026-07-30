@@ -1,6 +1,6 @@
 👋 Hi there! I'm Felipe Tribek
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Passionate+about+Technology;Looking+for+my+first+internship!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Passionate+about+Technology;Building+solutions+with+code!)](https://git.io/typing-svg)
 
 ---
 
