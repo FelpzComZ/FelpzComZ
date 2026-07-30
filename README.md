@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **Software Engineering Student** – 2nd Semester  
+🎓 **Software Engineering Student**
 📍 IFPR – Irati, PR, Brazil  
 
 ---
